@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bhh:home|Door43 (bhh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bhh|d43-bhh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bhh/archive/master.zip|d43-bhh.zip]]
+
+**Recent Changes**
+{{changes>ns = bhh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bhh|Ethnologue data]]
+
